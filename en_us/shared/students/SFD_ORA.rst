@@ -6,7 +6,8 @@ Open Response Assessments
 
 In an open response assessment, you provide written responses to questions that
 might not have simple or definitive answers. For some open response
-assessments, you can submit an image to accompany a written response.
+assessments, you can submit an image or other file to accompany a written
+response.
 
 Open response assessments can include a peer assessment, a self assessment, or
 both. With a peer assessment, you assess, or grade, responses that several of
@@ -113,35 +114,38 @@ receive your grade.
    :width: 500
 
 
-Submit an Image with Your Response
+Submit a File with Your Response
 ***********************************
 
-Some assignments ask you to submit an image with your text response. If you can
-submit an image, you will see buttons that you use to upload your image. You can
-only upload one image in each response, and your response must include some text
-along with the image. You cannot submit a response that does not contain any
-text.
+For some assignments, you might be asked to submit a file along with your text
+response. Those assignments include options to **Choose File** and **Upload
+your file** below the response field. Note the following requirements.
 
-.. note:: The image file must be a .jpg or .png file, and it must be smaller than 5 MB in size.
+* You must submit a text response. 
 
-.. image:: ../../shared/students/Images/PA_Upload_ChooseFile.png 
-   :alt: Open response assessment example with Choose File and Upload Your Image buttons circled
-   :width: 500
+* You can upload a single file to submit with your response.
 
-To upload your image, complete these steps.
+* The file that you upload must be smaller than 5 MB in size. 
 
-#. Click **Choose File**.
-#. In the dialog box that opens, select the file that you want, and then click **Open**.
-#. When the dialog box closes, click **Upload Your Image**.
+* Image files can be in .jpg, .gif, or .png format.
 
-Your image appears below the response field, and the name of the image file
-appears next to the **Choose File** button. If you want to change the image,
-follow steps 1-3 again. You can only upload one image per response.
+To upload your file, follow these steps.
+
+#. Below the response field, select **Choose File**.
+
+#. Select the file that you want to upload, and then select **Open**. 
+
+#. Select **Upload your file**.
+
+The name of the file that you selected and uploaded appears below the response
+field.
 
 .. image:: ../../shared/students/Images/PA_Upload_WithImage.png
    :alt: Example response with an image of Paris.
    :width: 500
 
+You can replace the file that you uploaded with a different one until you
+submit your response. Follow steps 1-3 again.
 
 ============================
 Learn to Assess Responses
