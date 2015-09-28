@@ -22,15 +22,20 @@ Overview
 Using Studio, you create certificates that learners can earn in your
 course. 
 
-***********************************
-Certificates and Course Start Dates
-***********************************
+.. Course start date not published for partners at this time, pending review.
 
-If your course is configured to issue certificates, you cannot start the course
-until the required certificates are :ref:`activated<Activate a Certificate>`.
+.. only:: Open_edX
 
-For information on starting the course, see :ref:`Determine Start and End
-Dates`.
+    ***********************************
+    Certificates and Course Start Dates
+    ***********************************
+
+    If your course is configured to issue certificates, you cannot start the
+    course until the required certificates are :ref:`activated<Activate a
+    Certificate>`.
+
+    For information on starting the course, see :ref:`Determine Start and End
+    Dates`.
 
 **********************
 Certificate Design
@@ -46,7 +51,7 @@ Certificate Design
 .. only:: Partners
 
   The design of certificates for your course, including your institution's
-  logo, are configured on edx.org by edX.  Contact your Program Manager for
+  logo, are configured on edx.org by edX.  Contact your Partner Manager for
   more information.
 
 
@@ -93,9 +98,14 @@ To create a certificate for your course, follow these steps.
    5. For verified certificates, you must upload an image file showing the
       signature of each signatory.
 
+      The image file must be a transparent .PNG file, 450px by 150px.
+
 .. only:: Open_edX
 
    5. Optionally, upload an image file showing the signature of each signatory.
+      
+      The image file must be a transparent .PNG file, 450px by 150px.
+      
 
 6. When you have finished creating your certificate, select **Create**.
 
@@ -122,7 +132,7 @@ You can edit a certificate before it is activated.
 
 .. only:: Partners
 
-  Contact your edX Program Manager if you need to edit an activated
+  Contact your edX Partner Manager if you need to edit an activated
   certificate.
 
 .. caution:: 
@@ -209,7 +219,7 @@ Activate a Certificate
 
 .. only:: Partners
 
-  When you have verified your certificates, contact your edX Program Manager to
+  When you have verified your certificates, contact your edX Partner Manager to
   activate your certificates.
 
 .. only:: Open_edX
@@ -248,7 +258,7 @@ it is possible that certificates have already been issued to learners.
 
 .. only:: Partners
 
-  Contact your edX Program Manager if you need to modify an activated
+  Contact your edX Partner Manager if you need to modify an activated
   certificate.
 
 .. only:: Open_edX

@@ -13,6 +13,12 @@ September 2015
 
    * - Date
      - Change
+   * - 25 September 2015
+     - Updated the sample XML and added an accessibility note in :ref:`Drag
+       and Drop`. Added a note about the **Show Answer** setting in
+       :ref:`Drag and Drop` and :ref:`Custom JavaScript`.
+   * - 18 September 2015
+     - Added the :ref:`Using Open edX as an LTI Tool Provider` section.
    * - 9 September 2015
      - Updated the :ref:`Student_Answer_Submission` section to include topics
        about the downloadable student state report and the submission history
@@ -32,17 +38,6 @@ August 2015
    * - Date
      - Change
    * - 26 August 2015
-     - Several additions were made to provide information about awarding
-       partial credit for problems.
-       
-       * :ref:`Awarding Partial Credit for a Problem`
-       * :ref:`Awarding Partial Credit in a Checkbox Problem`
-       * :ref:`Awarding Partial Credit in a Dropdown Problem`
-       * :ref:`Awarding Partial Credit in a Multiple Choice Problem` 
-       * :ref:`Awarding Partial Credit in a Numerical Input Problem`
-       * :ref:`Award Half Credit` in a Write Your Own Grader Problem
-
-   * - 
      - Updated the :ref:`Course Data` topic to include descriptions of newly
        added values.
    * - 17 August 2015
