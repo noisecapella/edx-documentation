@@ -66,20 +66,6 @@ Courseware Questions
 Can I take a course entirely on my mobile device?
 ========================================================
 
-.. The following paragraph describes the features of the edX mobile app for partners/edx.org (video only)
-.. Alison, DOC-1840, June 2015
-
-.. only:: Partners
-
-  Not at this time. With the edX mobile app, you can download course videos to
-  watch when you do not have an Internet connection. To complete other work,
-  including readings, homework problems, and exams, use a computer.
-
-.. The following paragraph describes the features of the edX mobile app for Open edX (adds notifications, assessments, discussions)
-.. Alison, DOC-1840, June 2015
-
-.. only:: Open_edX
-
   Not entirely. With the edX mobile app, you can download course videos to
   watch when you do not have an Internet connection. When you have an Internet
   connection, you can also read course announcements and content, participate
