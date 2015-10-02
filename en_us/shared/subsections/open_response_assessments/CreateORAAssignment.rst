@@ -108,8 +108,9 @@ these steps.
 
    .. note:: To reduce the potential for problems from files with malicious 
     content, learners cannot upload certain file types, even if you specify
-    them in this field. The file types that are blocked include .exe, .app,
-    .dmg, .bat, and .cmd.
+    them in this field. The file types that are blocked include, but are not
+    limited to, .exe, .app, .dmg, .bat, and .cmd. Contact your system
+    administrator for a complete and up-to-date list.
 
 #. Verify that the text of the prompt includes the file type or types that
    learners can upload.
@@ -132,21 +133,38 @@ For each step below, replace any default text with your own text.
    individual criteria. See step 2.4 below for instructions. For more
    information, see :ref:`Feedback Options`.
 
-To add the rubric, complete these steps.
+To add the rubric, follow these steps.
 
 #. In the open response assessment component editor, select the **Rubric** tab.
-#. In the first **Criterion** section, enter the name and prompt text of your first criterion.
-#. In the first **Option** section, enter the name, explanation, and point value for the first option.
-#. In the next **Option** section, enter the name, explanation, and point value for the next option.
-#. Repeat step 4 for each option. If you need to add more options, select **Add Option**.
-#. Next to **Feedback for This Criterion**, select a value in the dropdown list.
 
-   * If you do not want learners to provide feedback for this individual criterion, select **None**.
-   * If you want to require learners to provide feedback, select **Required**.
-   * If you want to allow learners to provide feedback, but not require it, select **Optional**.
+#. In the first **Criterion** section, enter the name and prompt text of your
+   first criterion.
 
-7. Follow the instructions in steps 2-6 to add your remaining criteria. If you need to add more criteria, select **Add Criterion** at the end of the list of criteria.
-#. Include instructions for learners to provide overall written feedback on their peers' responses. You can leave the default text in the **Feedback Instructions** field or replace it with your own text.
+#. In the first **Option** section, enter the name, explanation, and point
+   value for the first option.
+
+#. In the next **Option** section, enter the name, explanation, and point value
+   for the next option.
+
+#. Repeat step 4 for each option. If you need to add more options, select **Add
+   Option**.
+
+#. Next to **Feedback for This Criterion**, select a value in the dropdown
+   list.
+
+  * If you do not want learners to provide feedback for this individual
+    criterion, select **None**.
+  * If you want to require learners to provide feedback, select **Required**.
+  * If you want to allow learners to provide feedback, but not require it,
+    select **Optional**.
+
+7. Follow the instructions in steps 2-6 to add your remaining criteria. If you
+   need to add more criteria, select **Add Criterion** at the end of the list
+   of criteria.
+
+#. Include instructions for learners to provide overall written feedback on
+   their peers' responses. You can leave the default text in the **Feedback
+   Instructions** field or replace it with your own text.
 
 .. note:: After you publish an ORA assignment, you can no longer change the
    structure of the rubric or the point values associated with each criterion
