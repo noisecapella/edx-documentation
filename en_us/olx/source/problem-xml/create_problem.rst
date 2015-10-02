@@ -418,7 +418,7 @@ element.
 
 .. include:: ../../../shared/exercises_tools/Section_adding_hints.rst
 
-.. Comment out partial credit.. include:: ../../../shared/exercises_tools/Section_partial_credit.rst
+.. include:: ../../../shared/exercises_tools/Section_partial_credit.rst
 
 .. _Modifying a Released Problem:
 
@@ -573,4 +573,4 @@ Create Randomized Problems
 
 .. include:: ../../../shared/exercises_tools/Section_adding_tooltip.rst       
 
-.. include:: ../links.rst
+.. include:: ../../../links/links.rst
