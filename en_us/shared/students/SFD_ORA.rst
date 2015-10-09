@@ -118,6 +118,7 @@ complete before you receive your grade.
    :alt: Image of the Response field collapsed and then expanded.
    :width: 500
 
+.. _Submit a File with Your Response:
 
 Submit a File with Your Response
 ***********************************
