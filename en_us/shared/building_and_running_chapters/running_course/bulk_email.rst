@@ -4,12 +4,18 @@
 Bulk Email 
 ##############################
 
-For courses on edx.org, you can send bulk email messages to course participants
-directly from the Instructor Dashboard. Messages can use HTML styling, and can
-include links to videos, social media pages for the course, and other material.
-All course contributors who are assigned the Staff or Admin role
-can use bulk emails to communicate with course participants before, during, and
-after the course run. 
+For courses on edx.org, you can send bulk email messages to course
+participants directly from the Instructor Dashboard. Messages can use HTML
+styling, and can include links to videos, social media pages for the course,
+and other material. All course contributors who are assigned the Staff or
+Admin role can use bulk emails to communicate with course participants before,
+during, and after the course run.
+
+.. note:: 
+  Some courses use services such as MailChimp to send bulk email. EdX
+  recommends that you use either the edX bulk email service or a different
+  service, but not both. If you use more than one service to send email, your
+  messages may be marked as spam, and learners may not see them.
 
 This chapter contains the following topics.
 
@@ -20,7 +26,6 @@ This chapter contains the following topics.
 * `Review Sent Messages`_
 * `Email Task History Report`_
 * `Example Messages to Students`_
-
 
 *************************
 Message Addressing
