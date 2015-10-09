@@ -12,6 +12,9 @@ October 2015
 
    * - Date
      - Change
+   * - 21 October 2015
+     - Added information about specifying additional file types for learners to
+       upload to the :ref:`PA Allow Images` topic.
    * - 8 October 2015
      - Added information about deleting textbooks and chapters to :ref:`Adding
        Textbooks`.
