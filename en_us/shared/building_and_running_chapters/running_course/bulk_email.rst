@@ -12,10 +12,11 @@ Admin role can use bulk emails to communicate with course participants before,
 during, and after the course run.
 
 .. note:: 
-  Some courses use services such as MailChimp to send bulk email. EdX
-  recommends that you use either the edX bulk email service or a different
+  Some courses use third party services such as MailChimp to send bulk email.
+  EdX recommends that you use either the edX bulk email service or a different
   service, but not both. If you use more than one service to send email, your
-  messages may be marked as spam, and learners may not see them.
+  messages are more likely to be be marked as spam, and learners might not see
+  them.
 
 This chapter contains the following topics.
 
