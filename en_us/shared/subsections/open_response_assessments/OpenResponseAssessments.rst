@@ -51,7 +51,7 @@ by step instructions, see the following sections.
 * :ref:`Accessing ORA Assignment Information`
 
 For information about viewing metrics and learner responses for released open
-response assessments, see :ref:`Accessing ORA Assignment Information`.  
+response assessments, see :ref:`Accessing ORA Assignment Information`.
 
 For information about the learner experience with open response assessments,
 see `Open Response Assessments <http://edx-guide-for-students.readthedocs.org/en/latest/SFD_ORA.html>`_ in the `edX Guide for Learners <http://edx-guide-for-students.readthedocs.org/en/latest/index.html>`_.
@@ -88,7 +88,7 @@ open response assessments in your courses.
 
 * Provide an ungraded practice ORA assignment prior to the first graded ORA
   assignment in the course, so that learners can understand the peer grading
-  process and get the most out of the eventual graded ORA assignment. 
+  process and get the most out of the eventual graded ORA assignment.
 
 * Consider using ungraded ORA assignments to generate learner interaction and
   feedback without affecting grades.
@@ -139,7 +139,7 @@ elements:
 
 * The :ref:`rubric <PA Rubric>`. One rubric is used to grade all the prompts in
   the assessment.
-  
+
 * One or more :ref:`assessment steps <PA Assessment Steps>`. Assignments can
   include a learner training step, a peer assessment step, and a self
   assessment step.
@@ -163,7 +163,7 @@ response. You can require your learners to enter text as a response, or you can
 allow your learners to both enter text and upload another file, such as an
 image or document.
 
-.. note:: Uploaded files must be smaller than 5 MB in size. If learners upload 
+.. note:: Uploaded files must be smaller than 5 MB in size. If learners upload
  an image, the file must be in .jpg, .gif, or .png format.
 
 .. image:: ../../../../shared/building_and_running_chapters/Images/PA_QandRField.png
@@ -172,7 +172,7 @@ image or document.
 
 When you write each question, you can include helpful information for your
 learners, such as what they can expect after they submit responses, or the
-approximate number of words or sentences that their response should have. 
+approximate number of words or sentences that their response should have.
 
 .. note:: Each learner is limited to a total word count of 10,000 for all
    responses in an ORA assignment.
@@ -197,16 +197,8 @@ practices.
 
 * During the peer review process, learners download the files that other
   learners uploaded. To reduce the potential for problems from files with
-  malicious content, learners cannot upload certain file types, including .exe,
-  .app, .dmg, .bat, and .cmd files.
-
-  .. only:: Partners
-
-     For a complete list, contact your edX Partner Manager.
-
-   .. only:: Open_edX
-
-     For a complete list, contact your Open edX system administrator.
+  malicious content, learners cannot upload files with certain file extensions.
+  For a complete list, see :ref:`Prohibited File Extensions`.
 
 * Course teams can only access uploaded files for one learner at a time.
   Uploaded file content is not included in the reports of answer submissions
@@ -224,9 +216,55 @@ practices.
 * Files must be smaller than 5MB in size.
 
 * Image files must be in .jpg, .gif, or .png format.
-   
 
 For more information, see :ref:`PA Allow Images`.
+
+.. _Prohibited File Extensions:
+
+Prohibited File Extensions
+***************************
+
+This topic lists the set of file extensions that learners are prohibited from
+uploading as part of an open response assessment on edx.org or edX Edge. When
+you define a set of custom file types for learners to upload with their
+responses, you cannot specify these file types. The extensions on this list are
+selected and maintained by the development operations team at edX, and are
+subject to change.
+
+:ref:`AI` - :ref:`JP` - :ref:`QZ`
+
+.. _AI:
+
+A through I
+===========
+
+.action, .apk, .app, .application, .bat, .bin, .cmd, .com, .command, .cpl,
+.csh, .dmg, .exe, .gadget, .hta, .inf, .ins, .inx, .ipa, .isu
+
+.. _JP:
+
+J through P
+===========
+
+.jar, .job, .jse, .lnk., msc, .msh, .msh1, .msh2, .mshxml, .msh1xml, .msh2xml,
+.msi, .msp, .mst, .osx, .out, .paf, .pif, .prg, psc1, .psc2, .ps1, .ps1xml,
+.ps2, .ps2xml
+
+.. _QZ:
+
+Q through Z
+===========
+
+.reg, .rgs, .run, .scf, .scr, .sct, .shb, .shs, .u3p, .vb, .vbe, .vbs,
+.vbscript, .workflow .ws, .wsc, .wsf, .wsh
+
+.. only:: Open_edX
+
+  This set of file extensions is provided as the default for Open edX
+  installations. Open edX system administrators can update this list. For more
+  information, see :ref:`installation:Configuring ORA2 to Prohibit Submission
+  of File Types`.
+
 
 .. _PA Rubric:
 
@@ -240,7 +278,7 @@ grading. Learners compare their peers' responses to the rubric.
 
 Rubrics consist of *criteria* and *options*.
 
-* Each criterion has a *name*, a *prompt*, and one or more *options*. 
+* Each criterion has a *name*, a *prompt*, and one or more *options*.
 
    * The name is a very short summary of the criterion, such as "Ideas" or
      "Content". Criterion names generally have just one word. Because the system
@@ -252,7 +290,7 @@ Rubrics consist of *criteria* and *options*.
      .. image:: ../../../../shared/building_and_running_chapters/Images/PA_CriterionName.png
         :alt: A final score page with call-outs for the criterion names
 
-   * The prompt is a description of the criterion. 
+   * The prompt is a description of the criterion.
 
    * Options describe how well the response satisfies the criterion.
 
@@ -314,10 +352,10 @@ points possible)
        dynastic disagreement between Edward III and Philip VI, leading to the
        Hundred Years' War.
 
-.. note:: For peer grading, the most effective rubrics are as concrete 
-   and specific as possible. Many novice learners will be unqualified 
+.. note:: For peer grading, the most effective rubrics are as concrete
+   and specific as possible. Many novice learners will be unqualified
    to make the types of value judgments required for more holistic
-   rubrics. In addition, edX suggests using clear, simple language in 
+   rubrics. In addition, edX suggests using clear, simple language in
    rubrics.
 
 
@@ -391,7 +429,7 @@ above the response.
 
   Learning to Assess Responses
   Your assessment differs from the instructor's assessment of this response. Review the
-  response and consider why the instructor may have assessed it differently. Then, try 
+  response and consider why the instructor may have assessed it differently. Then, try
   the assessment again.
 
 For each of the criteria, the learner sees one of the following two messages,
@@ -630,7 +668,7 @@ in height in the list. (For longer responses, learners can scroll to see the
 entire response.) EdX recommends that you specify 20 or fewer responses to
 prevent the page from becoming too long.
 
-.. note:: It may take up to an hour for a high-scoring response to appear in 
+.. note:: It may take up to an hour for a high-scoring response to appear in
  the **Top Responses** list.
 
    If a high-scoring response is :ref:`removed from peer assessment<Remove a

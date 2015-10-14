@@ -57,7 +57,7 @@ Step 2. Add Prompts
 
 To add prompts, or questions, complete these steps.
 
-.. note:: If you want to add text formatting to the prompt, or include an 
+.. note:: If you want to add text formatting to the prompt, or include an
  image, see :ref:`Add Formatting or Images to a Prompt`.
 
 #. In the open response assessment component editor, select **Prompt**.
@@ -97,22 +97,21 @@ these steps.
 #. In the open response assessment component editor, select **Settings**.
 
 #. Set **Allow File Upload** to one of these options.
-   
+
   * **Image File**
   * **PDF or Image File**
-  * **Custom File Types** 
+  * **Custom File Types**
 
 #. If you select **Custom File Types**, the **File Types** field appears. Enter
-   the file name extensions, separated by commas, of the types of files that
+   the file extensions, separated by commas, of the types of files that
    you want learners to submit.
 
-   .. note:: To reduce the potential for problems from files with malicious 
+   .. note:: To reduce the potential for problems from files with malicious
     content, learners cannot upload certain file types, even if you specify
-    them in this field. The file types that are blocked include, but are not
-    limited to, .exe, .app, .dmg, .bat, and .cmd. Contact your system
-    administrator for a complete and up-to-date list.
+    them in this field. For more information, see :ref:`Asking Learners to
+    Upload Other Files in Responses`.
 
-#. Verify that the text of the prompt includes the file type or types that
+#. Verify that the text of the prompt describes the file type or types that
    learners can upload.
 
 .. _PA Add Rubric:
@@ -243,7 +242,7 @@ student responses, complete these steps.
 Step 5. Select Assignment Steps
 ****************************************
 
-Open response assessment assignments can include learner training, peer assessment, and self assessment steps. 
+Open response assessment assignments can include learner training, peer assessment, and self assessment steps.
 
 .. note:: If you include a learner training step, you must also include a peer
    assessment step. The learner training step must come before peer or self
@@ -264,7 +263,7 @@ To add steps to the open response assignment, complete these actions.
    * **Step: Peer Assessment**
    * **Step: Self Assessment**
 
-   Select the check boxes for the steps that you want the assignment to include. 
+   Select the check boxes for the steps that you want the assignment to include.
 
 #. (optional) To change the order of the steps, drag the steps into the order
    that you want.
@@ -345,10 +344,10 @@ Self Assessment
 For the self assessment step, you specify when the step starts and ends.
 
 #. Locate the **Step: Self Assessment** heading.
-   
+
 #. Next to **Start Date** and **Start Time**, enter the date and time when
    learners can begin assessing their peers' responses.
-   
+
 #. Next to **Due Date** and **Due Time**, enter the date and time by which all
    peer assessments must be complete.
 
@@ -368,7 +367,7 @@ To allow learners to see the top-scoring responses for the assignment, you
 specify a number on the **Settings** tab.
 
 #. In the component editor, select the **Settings** tab.
-   
+
 #. In the **Top Responses** field, specify the number of responses that you
    want to appear in the **Top Responses** section below the learner's final
    score. If you do not want this section to appear, set the number to 0. The
