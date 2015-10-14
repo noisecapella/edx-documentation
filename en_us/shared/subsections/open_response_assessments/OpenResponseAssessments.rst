@@ -231,33 +231,6 @@ responses, you cannot specify these file types. The extensions on this list are
 selected and maintained by the development operations team at edX, and are
 subject to change.
 
-:ref:`AI` - :ref:`JP` - :ref:`QZ`
-
-.. _AI:
-
-A through I
-===========
-
-.action, .apk, .app, .application, .bat, .bin, .cmd, .com, .command, .cpl,
-.csh, .dmg, .exe, .gadget, .hta, .inf, .ins, .inx, .ipa, .isu
-
-.. _JP:
-
-J through P
-===========
-
-.jar, .job, .jse, .lnk., msc, .msh, .msh1, .msh2, .mshxml, .msh1xml, .msh2xml,
-.msi, .msp, .mst, .osx, .out, .paf, .pif, .prg, psc1, .psc2, .ps1, .ps1xml,
-.ps2, .ps2xml
-
-.. _QZ:
-
-Q through Z
-===========
-
-.reg, .rgs, .run, .scf, .scr, .sct, .shb, .shs, .u3p, .vb, .vbe, .vbs,
-.vbscript, .workflow .ws, .wsc, .wsf, .wsh
-
 .. only:: Open_edX
 
   This set of file extensions is provided as the default for Open edX
@@ -265,6 +238,20 @@ Q through Z
   information, see :ref:`installation:Configuring ORA2 to Prohibit Submission
   of File Types`.
 
+.. list-table::
+   :widths: 15 75
+
+   * - A through I
+     - .action, .apk, .app, .application, .bat, .bin, .cmd, .com, .command,
+       .cpl, .csh, .dmg, .exe, .gadget, .hta, .inf, .ins, .inx, .ipa,
+       .isu
+   * - J through P
+     - .jar, .job, .jse, .lnk., msc, .msh, .msh1, .msh2, .mshxml, .msh1xml,
+       .msh2xml, .msi, .msp, .mst, .osx, .out, .paf, .pif, .prg, psc1, .psc2,
+       .ps1, .ps1xml, .ps2, .ps2xml
+   * - Q through Z
+     - .reg, .rgs, .run, .scf, .scr, .sct, .shb, .shs, .u3p, .vb, .vbe, .vbs,
+       .vbscript, .workflow .ws, .wsc, .wsf, .wsh
 
 .. _PA Rubric:
 

@@ -107,9 +107,8 @@ these steps.
    you want learners to submit.
 
    .. note:: To reduce the potential for problems from files with malicious
-    content, learners cannot upload certain file types, even if you specify
-    them in this field. For more information, see :ref:`Asking Learners to
-    Upload Other Files in Responses`.
+    content, learners cannot upload certain file types. For more information,
+    see :ref:`Asking Learners to Upload Other Files in Responses`.
 
 #. Verify that the text of the prompt describes the file type or types that
    learners can upload.
